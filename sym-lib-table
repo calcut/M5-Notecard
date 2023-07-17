@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "M.2 Connector")(type "KiCad")(uri "${KIPRJMOD}/Libs/MDT420E01001/MDT420E01001.kicad_sym")(options "")(descr ""))
+  (lib (name "Grove_vertical")(type "KiCad")(uri "${KIPRJMOD}/Libs/Grove Vertical/110990030/110990030.kicad_sym")(options "")(descr ""))
+  (lib (name "PluggableRS485")(type "KiCad")(uri "${KIPRJMOD}/Libs/PluggableRS485/284513-4/284513-4.kicad_sym")(options "")(descr ""))
+  (lib (name "buck_converter")(type "KiCad")(uri "${KIPRJMOD}/Libs/Buck Converter LMR33630/LIB_LMR33630CDDAR/LMR33630CDDAR/KiCad/LMR33630CDDAR.kicad_sym")(options "")(descr ""))
+  (lib (name "inductor")(type "Legacy")(uri "${KIPRJMOD}/Libs/Inductor XAL5030-601MEB/XAL5030-601MEB.lib")(options "")(descr ""))
+  (lib (name "M2 Screw Standoff")(type "KiCad")(uri "${KIPRJMOD}/Libs/M2 Screw Standoff/9774025151R.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM Card")(type "KiCad")(uri "${KIPRJMOD}/Libs/SIM Card/SF72S006VBAR2500.kicad_sym")(options "")(descr ""))
+  (lib (name "Pluggable Power")(type "KiCad")(uri "${KIPRJMOD}/Libs/PluggablePower/284513-2.kicad_sym")(options "")(descr ""))
+)

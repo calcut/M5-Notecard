@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMR33630CDDAR
+D SIMPLE SWITCHER 3.8V to 36V, 3A Synchronous Buck Converter With Ultra-Low EMI
+K
+F http://www.ti.com/lit/gpn/lmr33630
+$ENDCMP
+#
+#End Doc Library

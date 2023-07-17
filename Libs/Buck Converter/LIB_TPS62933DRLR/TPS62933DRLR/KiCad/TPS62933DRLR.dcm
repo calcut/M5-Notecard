@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62933DRLR
+D The TPS62933 is a high-efficiency, easy-to-use synchronous buck converter with a wide input voltage range of 3.8 V to 30 V
+K
+F https://www.ti.com/lit/ds/symlink/tps62933.pdf?ts=1626073394234
+$ENDCMP
+#
+#End Doc Library

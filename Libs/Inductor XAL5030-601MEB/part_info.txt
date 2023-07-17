@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XAL5030-601MEB
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.5
+Released=2020-01-08 11:37:34
+Downloaded=2021-07-14 16:28:50
+3D=Y

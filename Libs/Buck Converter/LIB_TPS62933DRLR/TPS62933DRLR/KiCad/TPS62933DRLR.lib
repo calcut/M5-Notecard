@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS62933DRLR
+#/14844466/171170/2.50/8/3/Integrated Circuit
+DEF TPS62933DRLR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TPS62933DRLR" 850 200 50 H V L CNN
+F2 "SOTFL50P160X60-8N" 850 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/tps62933.pdf?ts=1626073394234" 850 0 50 H I L CNN
+F4 "The TPS62933 is a high-efficiency, easy-to-use synchronous buck converter with a wide input voltage range of 3.8 V to 30 V" 850 -100 50 H I L CNN "Description"
+F5 "0.6" 850 -200 50 H I L CNN "Height"
+F6 "595-TPS62933DRLR" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62933DRLR?qs=Rp5uXu7WBW9fv47wfQVntQ%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS62933DRLR" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X RT 1 0 0 200 R 50 50 0 0 P
+X EN 2 0 -100 200 R 50 50 0 0 P
+X VIN 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X SW 5 1000 0 200 L 50 50 0 0 P
+X BST 6 1000 -100 200 L 50 50 0 0 P
+X SS 7 1000 -200 200 L 50 50 0 0 P
+X FB 8 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
